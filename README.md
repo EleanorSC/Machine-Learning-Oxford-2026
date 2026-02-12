@@ -1,6 +1,6 @@
 # Machine-Learning-Oxford-2026
 
-# Materials for Code Review in Academia Workshop 
+## Materials for Code Review in Academia Workshop 
 
 This workshop will start with an introductory presentation on conducting effective code reviews in academia. We'll cover how to prepare code for review and the key aspects to focus on when evaluating code. After the presentation, there will be a tea/coffee break, followed by a hands-on session where participants will work in pairs/small groups to review various snippets of R or Python code, putting the concepts learnt from the introductory presentation into practice.
 
